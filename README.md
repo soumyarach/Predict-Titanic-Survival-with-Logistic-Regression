@@ -30,5 +30,4 @@ To run this code, i need to install the following libraries:
     pip install pandas scikit-learn matplotlib seaborn
 
 
-bash
-pip install pandas scikit-learn matplotlib seaborn
+
